@@ -1,10 +1,17 @@
-User Detail Cards with MongoDB
+User Detail Management Application
 
-A web application for managing user details. This project allows users to create, read, update, and delete (CRUD) user profiles. It integrates MongoDB as the database and uses dynamic HTML templates to render user data.
+
+A full-stack web application for managing user details, featuring a user-friendly interface for creating, reading, updating, and deleting user profiles. The application leverages MongoDB for data persistence and Tailwind CSS for responsive, elegant designs.
 
 Features
-Create User: Add new user profiles with name, email, and profile picture URL.
+
+Create Users: Add new user profiles by entering their name, email, and profile picture URL.
+
 Read Users: View all user profiles in a visually appealing card layout.
-Update User: Edit user details such as name, email, and profile picture.
-Delete User: Remove user profiles.
-Responsive Design: Fully responsive design using Tailwind CSS for a seamless experience on all devices.
+
+Update Users: Edit user information seamlessly through a dedicated form.
+
+Delete Users: Remove unwanted user profiles with a single click.
+
+Responsive Design: Optimized for desktop and mobile views using Tailwind CSS.
+
